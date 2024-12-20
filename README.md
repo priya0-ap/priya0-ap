@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRIYA</h1>
 <h3 align="center">Cloud Engineer | DevOps Enthusiast |  AWS Certified | Innovating Scalable Solutions</h3>
 
-- 👨‍💻 All of my projects are available at [https://priya0-ap.github.io/my-portfolio/](https://priya0-ap.github.io/my-portfolio/)
+- 👨‍💻 Portfolio: [https://priya0-ap.github.io/my-portfolio/](https://priya0-ap.github.io/my-portfolio/)
 
 - 📫 How to reach me **patelpriya4880@gmail.com**
 
